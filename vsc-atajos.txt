@@ -1,0 +1,9 @@
+Ctrl + Ç : Hacer comentario
+Ctrl + ñ : Terminal (Barra de menú: Ver>Terminal)
+
+Ctrl + Mayúsc + P: Paleta de comandos
+    Encapsular con abbreviatura / Wrap width Abbreviation
+
+
+CSS 
+Ctrl + barra espacadora: Ver propiedades CSS
