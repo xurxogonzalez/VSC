@@ -4,6 +4,8 @@ Ctrl + ñ : Terminal (Barra de menú: Ver>Terminal)
 Ctrl + Mayúsc + P: Paleta de comandos
     Encapsular con abbreviatura / Wrap width Abbreviation
 
+Alt + z : alternar ajuste automática de línea (Barra de menú: Ver/Alternar automática de línea)
+
 
 CSS 
 Ctrl + barra espacadora: Ver propiedades CSS
