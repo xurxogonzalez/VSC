@@ -6,6 +6,35 @@ Ctrl + Mayúsc + P: Paleta de comandos
 
 Alt + z : alternar ajuste automática de línea (Barra de menú: Ver/Alternar automática de línea)
 
+F1 : Fragmentos de código de usuario (snippets) (Barra de menú: Archivo/Preferencias/Fragmentos de código de usuario)
 
 CSS 
 Ctrl + barra espacadora: Ver propiedades CSS
+
+Lorem
+    lorem + tab genera un párrafo
+    lorem3 + tab genera tres palabras
+
+snippets
+Archivo/Preferencias/fragmentos de código 
+    Buscar html.json
+Modificar Plantilla HTML 
+    Archivo·Preferencias·Ajustes, y buscas la palabra emmet, verás que hay unos cuantos ajustes. El que nos interesa es el que se llama Extensions Path
+    Plantilla de ejemplo:
+{   
+    "variables":
+    {      
+        "lang": "es"
+    },
+    "html":
+    {      
+        "snippets":
+        {
+            "html:5": "!!!+html[lang=${lang}]>(head>meta[charset=utf-8]+meta[name=viewport content=\"width=device-width, initial-scale=1.0\"]+title{${1:Título de la página}}+link[rel=\"shortcut icon\" href=#])+body"
+        }
+    }
+}
+
+
+En Español
+No es más que una Extensión más. Vas a Extensiones y buscas Spanish Language Pack for Visual
