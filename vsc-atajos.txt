@@ -1,5 +1,8 @@
 Ctrl + Ç : Hacer comentario
 Ctrl + ñ : Terminal (Barra de menú: Ver>Terminal)
+Ctrol + P Abrir ficheros rápidamente
+Ctrl+K Z Modo Zen (Ver/Apariencia/Modo Zen) 
+    Para salir del modo Zen pulsar dos veces ESC
 
 Ctrl + Mayúsc + P: Paleta de comandos
     Encapsular con abbreviatura / Wrap width Abbreviation
