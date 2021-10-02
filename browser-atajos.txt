@@ -1,0 +1,14 @@
+F12: Abrir Inspector
+Ctrl + u: Ver código fuente
+
+Edición
+    Ctrl+C Copiar
+    Ctrl+V Pegar
+    Ctrl+X Cortar
+
+Navegación
+    Ctrl+Y Rehacer | Paso adelante
+    Ctrl+Z Deshacer | Paso atrás
+
+Windows+cursor Posicionar ventanas
+Windows+. Emoticonos
