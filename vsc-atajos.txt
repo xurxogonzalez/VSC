@@ -7,6 +7,8 @@ Ctrl+K Z Modo Zen (Ver/Apariencia/Modo Zen)
 Ctrl + Mayúsc + P: Paleta de comandos
     Encapsular con abbreviatura / Wrap width Abbreviation
 
+Ctrl+shif+L Selección múltiple con cursor. Por ejemplo seleccionar todas las comillas
+
 Alt + z : alternar ajuste automática de línea (Barra de menú: Ver/Alternar automática de línea)
 
 F1 : Fragmentos de código de usuario (snippets) (Barra de menú: Archivo/Preferencias/Fragmentos de código de usuario)
